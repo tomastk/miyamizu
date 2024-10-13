@@ -1,4 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
-
-export default nextConfig;
+const nextConfig = {
+    images: {
+      domains: ['i.imgur.com'], // Agrega imgur.com como un dominio permitido
+    },
+  };
+  
+  export default nextConfig;
+  

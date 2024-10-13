@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px; /* Ajusta el padding según tus necesidades */
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .cartIcon {
+    cursor: pointer; /* Cambia el cursor al pasar sobre el ícono */
+  }
+  
