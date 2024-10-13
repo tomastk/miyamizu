@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image'; // Asegúrate de importar este componente si usas Next.js
-import styles from './Header.module.css'; // Crea un archivo CSS para los estilos
+import styles from './header.module.css'; // Crea un archivo CSS para los estilos
 
 const Header = () => {
   return (
